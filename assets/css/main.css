@@ -264,7 +264,7 @@ h6 {
   background: color-mix(in srgb, var(--accent-color), transparent 15%);
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 912px) {
   .header .logo {
     order: 1;
   }
@@ -519,6 +519,8 @@ h6 {
     display: block;
   }
 }
+
+
 
 /*--------------------------------------------------------------
 # Global Footer
