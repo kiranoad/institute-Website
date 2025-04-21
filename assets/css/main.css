@@ -1043,6 +1043,8 @@ section,
 }
 
 .why-us .why-box h3 {
+  padding: 10px;
+  padding-bottom: 35px;
   color: var(--contrast-color);
   font-weight: 700;
   font-size: 34px;
@@ -1059,6 +1061,7 @@ section,
   padding: 8px 40px 10px 40px;
   color: var(--contrast-color);
   transition: all ease-in-out 0.4s;
+  border: 1.5px solid #fff;
   border-radius: 50px;
 }
 
@@ -1069,6 +1072,7 @@ section,
 .why-us .why-box .more-btn:hover {
   color: var(--accent-color);
   background: var(--surface-color);
+  border: 1.5px solid #000000;
 }
 
 .why-us .icon-box {
